@@ -16,7 +16,7 @@
 <img aling ="center" alt="css" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
 
 </div><br/>
-Tech, sports, gaming and music lover currently trying to improve myself ❤️‍🩹
+Tech, sports, gaming and music lover & currently trying to improve myself! Feel free to contact me trought the links ❤️‍🩹
 
 
 
