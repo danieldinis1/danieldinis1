@@ -14,6 +14,7 @@
 <img aling ="center" alt="css" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
 <img aling ="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 <img aling ="center" alt="css" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+<img aling ="center" alt="css" src="[https://img.shields.io/badge/Kotlin-0095D5?](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)&style=for-the-badge&logo=kotlin&logoColor=white" />
 
 </div><br/>
 Tech, sports, gaming and music lover & currently trying to improve myself! Feel free to contact me trought the links ❤️‍🩹
