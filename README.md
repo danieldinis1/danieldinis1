@@ -7,14 +7,14 @@
 
 
 
-
 ### 🖥️Languages that Im currently learning:
 <div style ="display:inline_block">
+<img aling ="center" alt="css" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img aling ="center" alt="css" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img aling ="center" alt="css" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
 <img aling ="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-<img aling ="center" alt="css" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-<img aling ="center" alt="css" src="[https://img.shields.io/badge/Kotlin-0095D5?](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)&style=for-the-badge&logo=kotlin&logoColor=white" />
+<img aling ="center" alt="css" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)" />
+<img aling ="center" alt="css" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)" />
 
 </div><br/>
 Tech, sports, gaming and music lover & currently trying to improve myself! Feel free to contact me trought the links ❤️‍🩹
