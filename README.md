@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/126657462/235507530-38250724-6800-4a5a-998c-35ea9a00b3f8.png)
-### ✋Hello! I'm Daniel, im 20 and I'm currently at university studying Computer Science and Engineering at Instituto Superior de Engenharia de Lisboa.
+### ✋Hello! I'm Daniel, im 22 and I'm currently at university studying Computer Science and Engineering at Instituto Superior de Engenharia de Lisboa.
 ### Here you can check some of my uni and personal projects and contacts if you want to chat with me.
 
 
@@ -17,7 +17,7 @@
 <img aling ="center" alt="css" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)" />
 
 </div><br/>
-Tech, sports, gaming and music lover & currently trying to improve myself! Feel free to contact me trought the links ❤️‍🩹
+Tech, sports, gaming, cinema and music lover . Always trying to improve myself! Feel free to contact me trought the links ❤️‍🩹
 
 
 
