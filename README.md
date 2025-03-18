@@ -17,11 +17,11 @@
 <img aling ="center" alt="css" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)" />
 
 </div><br/>
-Tech, sports, gaming, cinema and music lover . Always trying to improve myself! Feel free to contact me trought the links ❤️‍🩹
+Tech, sports, cinema and music lover . Always trying to improve myself! Feel free to contact me trought the links ❤️‍🩹
 
 
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/D1#4673)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCKCBBJFPcqxGhKkpzhtrHsxWChHzcNCHpjjJHzQMmBngKVZbfWlpKvhzJHctSKKbQLMqLNB)
-![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) 
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/D1#4673)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCKCBBJFPcqxGhKkpzhtrHsxWChHzcNCHpjjJHzQMmBngKVZbfWlpKvhzJHctSKKbQLMqLNB)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/danieldinis1/)
 
